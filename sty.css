@@ -1,0 +1,89 @@
+.NAVBACK{
+	background-image: url("img/BGyellow.png");
+}
+.MIDBACK{
+	background-color: white;
+}
+.NAVINS{
+	flex-direction: row;
+}
+body{
+	background-image: url("img/sqtexture.png");
+}
+.carrito{
+  margin-top: 3%;
+}
+.LongTexto{
+  text-overflow: ellipsis;
+}
+.OTROBACK{
+	background-color: white;
+	width: 60%;
+	margin-top: 80px;
+}
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    padding: 20px 0;
+}
+.OTROOTROBACK{
+	background-image: url("img/Headbg.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.footer-links a {
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.uwu{
+    background-image: url("img/sqtexture.png");
+}
+
+.itemcont{
+    height: 90%;
+    width: 90%;
+}
+.centrarc{
+         margin:auto;
+}
+
+footer {
+    background: #107acc;
+    text-align: left;
+    padding: 20px 0;
+}
+
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+.footer-links3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    }
+.footer-links2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.footer-links a {
+
+}
+
+.footer-links a:hover {
+    text-decoration: none;
+}
+
+a < .textolinks {
+	color: black;
+}

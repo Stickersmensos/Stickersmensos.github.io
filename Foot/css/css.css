@@ -1,0 +1,138 @@
+li{
+
+color: darkred;
+    font-family:  'Bodoni MT Black';
+    font-size: 18;
+
+}
+section{
+    margin: 10px;
+    padding: 15px;
+    font-size: 18px;
+
+
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/sqtexture.png');
+}
+.NAVBACK{
+    background-image: url('../img/BGyellow.png');
+
+    text-align: center;
+    
+    background-repeat: repeat;
+}
+
+.bar {
+    margin-top: 10px;
+    padding: 10px;
+    width: 80%;
+    border:1px #107acc solid;
+    max-width: 500px;
+    border-radius: 5px;
+    margin-left: -400px;
+    margin-right: -300px;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 0;
+    font-family: Cambria rounded;
+    font-size: 40px;
+}
+
+
+
+footer {
+    background: #107acc;
+    color: #fff;
+    text-align: left;
+    padding: 20px 0;
+}
+
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+.footer-links3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    }
+.footer-links2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.footer-links a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: none;
+}
+.ing{
+    flex-direction: left;
+    width:180px;
+    float: left;
+    margin-top: -50px;
+}
+.imgm{
+width: 120PX;
+flex-direction: center;
+}
+
+.footer-links a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+footer {
+    background: #107acc;
+     color: #107acc;
+    text-align: center;
+
+}
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+     color: #107acc;
+    text-align: center;
+    padding: 20px 0;
+}
+.footer-links a {
+color: #107acc;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+footer {
+           background-image: url('../img/BGyellow.png');
+        background-repeat: repeat;
+    text-align: center;
+    padding: 20px 0;
+}
+.fon{
+background-color:white ;
+
+}
